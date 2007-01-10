@@ -8,5 +8,5 @@ Description: derived from CNMC (pepr.cnmcresearch.org)
         http://pepr.cnmcresearch.org/browse.do?action=list_prj_exp&projectId=95
         Human Bronchial Cell line A549
 License: GPL2
-BiocViews: TimeCourse
+biocViews: ExperimentData, TimeCourse
 URL: http://www.biostat.harvard.edu/~carey
