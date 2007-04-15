@@ -27,3 +27,4 @@ data(HAHrma)
 table(HAHrma$time, HAHrma$trt)
 }
 
+\keyword{data}
