@@ -1,5 +1,5 @@
 Package: bronchialIL13
-Version: 1.5.0
+Version: 1.5.1
 Title: time course experiment involving il13
 Author: Vince Carey <stvjc@channing.harvard.edu>
 Depends: R(>= 2.10.0), affy (>= 1.23.4)
@@ -8,5 +8,5 @@ Description: derived from CNMC (pepr.cnmcresearch.org)
         http://pepr.cnmcresearch.org/browse.do?action=list_prj_exp&projectId=95
         Human Bronchial Cell line A549
 License: GPL-2
-biocViews: ExperimentData, TimeCourse
+biocViews: ExperimentData, MicroarrayData
 URL: http://www.biostat.harvard.edu/~carey
