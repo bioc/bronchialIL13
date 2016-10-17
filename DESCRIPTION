@@ -1,5 +1,5 @@
 Package: bronchialIL13
-Version: 1.11.0
+Version: 1.12.0
 Title: time course experiment involving il13
 Author: Vince Carey <stvjc@channing.harvard.edu>
 Depends: R(>= 2.10.0), affy (>= 1.23.4)
